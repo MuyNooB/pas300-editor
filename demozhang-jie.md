@@ -1,5 +1,15 @@
 :-: \*\*\*前言\*\*\*
 
+
+
+\*\*加粗\*\*
+
+
+
+**加粗**
+
+
+
 这本书是由 Tealeaf Academy 团队共同协作完成的。
 
 \* \[ \] 代办事项1
@@ -30,7 +40,7 @@
 
 * Blue
 
-\[链接文字\]\([http://blog.csdn.net/hk2291976/article/details/51173850\](http://blog.csdn.net/hk2291976/article/details/51173850\)\)
+\[链接文字\]\([http://blog.csdn.net/hk2291976/article/details/51173850\](http://blog.csdn.net/hk2291976/article/details/51173850%29\)
 
 \[zi3\]\(zi3.md\)
 
@@ -64,7 +74,7 @@
 
 \[^footnote\]:又是一个脚注
 
-!\[\]\([https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef\_100x100.png\](https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef_100x100.png\)\)
+!\[\]\([https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef\_100x100.png\](https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef_100x100.png%29\)
 
 !\[\]\([https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef\_100x100.png](https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef_100x100.png) =50x50\)
 
@@ -74,7 +84,7 @@
 
 &gt; 这是第三行引用内容文字  \`单行代码\`
 
-&gt; \[这是一个链接\]\([http://www.kancloud.cn\](http://www.kancloud.cn\)\)
+&gt; \[这是一个链接\]\([http://www.kancloud.cn\](http://www.kancloud.cn%29\)
 
 &gt; 引用内容
 
@@ -146,7 +156,7 @@ AT&T
 
 [http://images.google.com/images?num=30&q=larry+bird](http://images.google.com/images?num=30&q=larry+bird)
 
-[http://images.google.com/images?num=30&amp;q=larry+bird](http://images.google.com/images?num=30&amp;q=larry+bird)
+[http://images.google.com/images?num=30&q=larry+bird](http://images.google.com/images?num=30&amp;q=larry+bird)
 
 © copyright
 
