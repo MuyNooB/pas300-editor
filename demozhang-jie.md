@@ -1,44 +1,36 @@
 :-: \*\*\*前言\*\*\*
 
-
-
 这本书是由 Tealeaf Academy 团队共同协作完成的。
-
-
 
 \* \[ \] 代办事项1
 
 \* \[ \] 代办事项2
 
-    \* \[x\] 完成事项3
+```
+\* \[x\] 完成事项3
 
-    \* \[x\] 完成事项4
+\* \[x\] 完成事项4
+```
 
+* Red
 
+  1. Bird
 
-+   Red
+  2. McHale
 
-    1.  Bird
+  3. Parish
 
-    2.  McHale
+* Green
 
-    3.  Parish
+* Blue
 
-+   Green
+* Red
 
-+   Blue
+* Green
 
+* Blue
 
-
--   Red
-
--   Green
-
--   Blue
-
-
-
-\[链接文字\]\(http://blog.csdn.net/hk2291976/article/details/51173850\)
+\[链接文字\]\([http://blog.csdn.net/hk2291976/article/details/51173850\](http://blog.csdn.net/hk2291976/article/details/51173850\)\)
 
 \[zi3\]\(zi3.md\)
 
@@ -48,17 +40,11 @@
 
 然后在页面的任意位置添加如下：
 
-\[1\]: http://www.kancloud.cn/test\_address
-
-
+\[1\]: [http://www.kancloud.cn/test\_address](http://www.kancloud.cn/test_address)
 
 // j脚注功能
 
-
-
 \[TOC\]
-
-
 
 看云是一个文档写作\[^write\]和托管平台\[^platform\]。自己加的其他的\[^hehe\]
 
@@ -70,49 +56,33 @@
 
 \[^hehe\]: 自己加的脚注
 
-
-
 ---
 
-
-
 \*\*\*\*\*
-
-
-
-
 
 再来一个脚注\[^footnote\]
 
 \[^footnote\]:又是一个脚注
 
+!\[\]\([https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef\_100x100.png\](https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef_100x100.png\)\)
 
+!\[\]\([https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef\_100x100.png](https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef_100x100.png) =50x50\)
 
-!\[\]\(https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef\_100x100.png\)
+&gt; 这是一段引用内容文字 \*\*粗体内容\*\*
 
-!\[\]\(https://box.kancloud.cn/36b63669cdf9a2879646b217dba405ef\_100x100.png =50x50\)
+&gt; 这是第二行引用内容文字  \_斜体内容\_
 
+&gt; 这是第三行引用内容文字  \`单行代码\`
 
-
-&gt; 这是一段引用内容文字 \*\*粗体内容\*\*   
-
-&gt; 这是第二行引用内容文字  \_斜体内容\_  
-
-&gt; 这是第三行引用内容文字  \`单行代码\`  
-
-&gt; \[这是一个链接\]\(http://www.kancloud.cn\) 
-
-
+&gt; \[这是一个链接\]\([http://www.kancloud.cn\](http://www.kancloud.cn\)\)
 
 &gt; 引用内容
 
-&gt; 
+&gt;
 
 &gt; &gt; 子引用内容
 
 &gt; &gt; 子引用内
-
-
 
 &gt; This is the first level of quoting.
 
@@ -124,165 +94,117 @@
 
 &gt; Back to the first level.
 
-
-
 &gt;\[info\] 这里是\*\*提示信息\*\*
-
-
 
 &gt;\[warning\] 这里是\*\*警告信息\*\*
 
-
-
 &gt;\[success\] 这里是\*\*成功信息\*\*
-
-
 
 &gt;\[danger\] 这里是\*\*危险信息\*\*
 
-
-
 &gt; \#\# This is a header.
 
-&gt; 
+&gt;
 
 &gt; 1.   This is the first list item.
 
 &gt; 2.   This is the second list item.
 
-&gt; 
+&gt;
 
 &gt; Here's some example code:
 
-&gt; 
+&gt;
 
 &gt;     return shell\_exec\("echo $input \| $markdown\_script"\);
-
-
-
-
 
 \[图灵社区\]\[1\]
 
 !\[图灵社区Logo\]\[2\]
 
+\[1\]:[http://www.ituring.com.cn](http://www.ituring.com.cn)
 
-
-\[1\]:http://www.ituring.com.cn
-
-\[2\]:http://www.ituring.com.cn/Content/img/Turing.Gif
-
-
+\[2\]:[http://www.ituring.com.cn/Content/img/Turing.Gif](http://www.ituring.com.cn/Content/img/Turing.Gif)
 
 &lt;table&gt;
 
-    &lt;tr&gt;
+```
+&lt;tr&gt;
 
-        &lt;td&gt;Foo&lt;/td&gt;
+    &lt;td&gt;Foo&lt;/td&gt;
 
-    &lt;/tr&gt;
+&lt;/tr&gt;
+```
 
 &lt;/table&gt;
 
-
-
 &lt;span&gt;hello&lt;/span&gt;
-
-
 
 AT&T
 
-AT&amp;T
+AT&T
 
-http://images.google.com/images?num=30&q=larry+bird
+[http://images.google.com/images?num=30&q=larry+bird](http://images.google.com/images?num=30&q=larry+bird)
 
-http://images.google.com/images?num=30&amp;q=larry+bird
+[http://images.google.com/images?num=30&amp;q=larry+bird](http://images.google.com/images?num=30&amp;q=larry+bird)
 
-
-
-&copy; copyright
-
-
-
-4 &lt; 5  
-
-
+© copyright
 
 4 &lt; 5
 
+4 &lt; 5
 
+1. This is a list item with two paragraphs. Lorem ipsum dolor
 
-    1.    This is a list item with two paragraphs. Lorem ipsum dolor
+   sit amet, consectetuer adipiscing elit. Aliquam hendrerit
 
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+   mi posuere lectus.
 
-    mi posuere lectus.
+```
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet
 
+vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
 
-
-    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-
-    sit amet velit.
-
-
+sit amet velit.
+```
 
 //前面是个tab 或者 4个空格
 
+1. Suspendisse id sem consectetuer libero luctus adipiscing.
 
-
-	2.  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-
-
-    \*   This is a list item with two paragraphs.
+```
+\*   This is a list item with two paragraphs.
 
 
 
-    This is the second paragraph in the list item. You're
+This is the second paragraph in the list item. You're
+```
 
 only required to indent the first line. Lorem ipsum dolor
 
 sit amet, consectetuer adipiscing elit.
 
+```
+\*        A list item with a blockquote:
 
 
 
+&gt; This is a blockquote
 
-
-
-    \*        A list item with a blockquote:
-
-
-
-    &gt; This is a blockquote
-
-    &gt; inside a list item.
-
-
+&gt; inside a list item.
+```
 
 &lt;em&gt;single asterisks&lt;/em&gt;
 
 &lt;em&gt;single underscores&lt;/em&gt;
 
-
-
 &lt;strong&gt;double asterisks&lt;/strong&gt;
 
 &lt;strong&gt;double underscores&lt;/strong&gt;
 
-
-
 un\*frigging\*believable
 
-un\\*frigging\*believable
+un\_frigging\_believable
 
-\\*this text is surrounded by literal asterisks\\*
-
-
-
-
-
-
+\_this text is surrounded by literal asterisks\_
 
