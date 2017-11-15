@@ -39,7 +39,7 @@
 * 符号
 * [图形对象特性](tu-xing-dui-xiang-te-xing.md)
   * [符号属性定义](tu-xing-dui-xiang-te-xing/fu-hao-shu-xing-ding-yi.md)
-    * 符号属性定义向导
+    * [符号属性定义向导](tu-xing-dui-xiang-te-xing/fu-hao-shu-xing-ding-yi/fu-hao-shu-xing-ding-yi-xiang-dao.md)
     * 符号属性定义示例
   * 配方定义
   * 动态特性
