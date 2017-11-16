@@ -1,18 +1,19 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Demo章节](demozhang-jie.md)
-* [gitbook 编辑demo](gitbook-bian-ji-demo.md)
-* [图形编辑器概述](图形编辑器概述.md)
-* [启动和退出程序](qi-dong-he-tui-chu-cheng-xu.md)
-* [图形组态界面](tu-xing-zu-tai-jie-mian.md)
+// [First Chapter](chapter1.md)
+* 以前的编辑demo
+  * [Demo章节](demo/demozhang-jie.md)
+  * [gitbook 编辑demo](demo/gitbook-bian-ji-demo.md)
+* [第1章 图形编辑器概述](图形编辑器概述/图形编辑器概述.md)
+* [第2章 启动和退出程序](启动和退出程序/启动和退出程序.md)
+* [第3章 图形组态界面](图形组态界面/图形组态界面.md)
   * 标题栏
   * 菜单-工具栏
   * 图纸-模版-符号库
   * 工作区
   * 属性区
-* [主菜单使用](zhu-cai-dan-shi-yong.md)
+* [第4章 主菜单使用](主菜单使用/主菜单使用.md)
   * 文件
   * 编辑
   * 视图
@@ -27,28 +28,28 @@
     * 基本图形对象
     * 组合图形对象
   * 帮助
-* 绘制图形界面-模版
+* 第5章 绘制图形界面-模版
   * 普通界面
   * 操作面板
   * 流程图模版
   * 自定义操作面板
-* 图形界面-画面-画面窗口管理
-* 符号库
+* 第6章 图形界面-画面-画面窗口管理
+* 第7章 符号库
   * 符号库管理
   * 符号库快捷键
-* 符号
-* [图形对象特性](tu-xing-dui-xiang-te-xing.md)
-  * [符号属性定义](tu-xing-dui-xiang-te-xing/fu-hao-shu-xing-ding-yi.md)
-    * [符号属性定义向导](tu-xing-dui-xiang-te-xing/fu-hao-shu-xing-ding-yi/fu-hao-shu-xing-ding-yi-xiang-dao.md)
+* 第8章 符号
+* [第9章 图形对象特性](图形对象特性/图形对象特性.md)
+  * [符号属性定义](图形对象特性/符号属性定义.md)
+    * [符号属性定义向导](图形对象特性/符号属性定义向导.md)
     * 符号属性定义示例
   * 配方定义
   * 动态特性
   * 交互特性
-* 图形组态示例
+* 第10章 图形组态示例
   * 创建流程图模版
     * 新建流程图模版
     * 绘制模版
-  * [创建流程图](chuang-jian-liu-cheng-tu.md)
+  * [创建流程图](创建流程图/创建流程图.md)
     * step 1 新建流程图
     * step 2 绘制流程图
     * step 3 添加静态图形
