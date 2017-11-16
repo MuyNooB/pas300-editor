@@ -1,18 +1,26 @@
 # Summary
 
+### Part I
 * [Introduction](README.md)
 
 * 以前的编辑demo
   * [Demo章节](demo/demozhang-jie.md)
   * [gitbook 编辑demo](demo/gitbook-bian-ji-demo.md)
+
 * [第1章 图形编辑器概述](图形编辑器概述/图形编辑器概述.md)
+
+### Part II
 * [第2章 启动和退出程序](启动和退出程序/启动和退出程序.md)
+
+### Part III
 * [第3章 图形组态界面](图形组态界面/图形组态界面.md)
   * 标题栏
   * 菜单-工具栏
   * 图纸-模版-符号库
   * 工作区
   * 属性区
+
+### Part IV
 * [第4章 主菜单使用](主菜单使用/主菜单使用.md)
   * 文件
   * 编辑
