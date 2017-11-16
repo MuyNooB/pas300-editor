@@ -4,7 +4,7 @@
 * [First Chapter](chapter1.md)
 * [Demo章节](demozhang-jie.md)
 * [gitbook 编辑demo](gitbook-bian-ji-demo.md)
-* [图形编辑器概述](tu-xing-bian-ji-qi-gai-shu.md)
+* [图形编辑器概述](图形编辑器概述.md)
 * [启动和退出程序](qi-dong-he-tui-chu-cheng-xu.md)
 * [图形组态界面](tu-xing-zu-tai-jie-mian.md)
   * 标题栏
