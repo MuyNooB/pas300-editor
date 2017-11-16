@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-// [First Chapter](chapter1.md)
+
 * 以前的编辑demo
   * [Demo章节](demo/demozhang-jie.md)
   * [gitbook 编辑demo](demo/gitbook-bian-ji-demo.md)
